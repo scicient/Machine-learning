@@ -1,0 +1,9 @@
+# 忽略ORL人脸数据集图片
+*.pgm
+*.png
+*.jpg
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pth
+*.pt
